@@ -1,0 +1,55 @@
+,index,Year,Champion,Runner-Up,Finals MVP,Points Per Game,Rebounds Per Game,Assists Per Game,Name
+0,1,2022,Golden State Warriors,Boston Celtics,S. Curry,31.2,6.0,5.0, Stephen Curry 
+1,2,2021,Milwaukee Bucks,Phoenix Suns,G. Antetokounmpo,35.2,13.2,5.0, Giannis Antetokounmpo 
+2,3,2020,Los Angeles Lakers,Miami Heat,L. James,29.8,11.8,8.5, LeBron James 
+3,4,2019,Toronto Raptors,Golden State Warriors,K. Leonard,28.5,9.8,4.2, Kawhi Leonard 
+4,5,2018,Golden State Warriors,Cleveland Cavaliers,K. Durant,28.8,10.8,7.5, Kevin Durant 
+5,6,2017,Golden State Warriors,Cleveland Cavaliers,K. Durant,35.2,8.2,5.4, Kevin Durant 
+6,7,2016,Cleveland Cavaliers,Golden State Warriors,L. James,29.7,11.3,8.9, LeBron James 
+7,8,2015,Golden State Warriors,Cleveland Cavaliers,A. Iguodala,16.3,5.8,4.0, Andre Iguodala 
+8,9,2014,San Antonio Spurs,Miami Heat,K. Leonard,17.8,6.4,2.0, Kawhi Leonard 
+9,10,2013,Miami Heat,San Antonio Spurs,L. James,25.3,10.9,7.0, LeBron James 
+10,11,2012,Miami Heat,Oklahoma City Thunder,L. James,28.6,10.2,7.4, LeBron James 
+11,12,2011,Dallas Mavericks,Miami Heat,D. Nowitzki,26.0,9.7,2.0, Dirk Nowitzki 
+12,13,2010,Los Angeles Lakers,Boston Celtics,K. Bryant,28.6,8.0,3.9, Kobe Bryant 
+13,14,2009,Los Angeles Lakers,Orlando Magic,K. Bryant,32.4,5.6,7.4, Kobe Bryant 
+14,15,2008,Boston Celtics,Los Angeles Lakers,P. Pierce,21.8,4.5,6.3, Paul Pierce 
+15,16,2007,San Antonio Spurs,Cleveland Cavaliers,T. Parker,24.5,5.0,3.3, Tony Parker 
+16,17,2006,Miami Heat,Dallas Mavericks,D. Wade,34.7,7.8,3.8, Dwyane Wade 
+17,18,2005,San Antonio Spurs,Detroit Pistons,T. Duncan,20.6,14.1,2.1, Tim Duncan 
+18,19,2004,Detroit Pistons,Los Angeles Lakers,C. Billups,21.0,3.2,5.2, Chauncey Billups 
+19,20,2003,San Antonio Spurs,New Jersey Nets,T. Duncan,24.2,17.0,5.3, Tim Duncan 
+20,21,2002,Los Angeles Lakers,New Jersey Nets,S. O'Neal,36.3,12.3,3.8, Shaquille O'Neal 
+21,22,2001,Los Angeles Lakers,Philadelphia 76ers,S. O'Neal,33.0,15.8,4.8, Shaquille O'Neal 
+22,23,2000,Los Angeles Lakers,Indiana Pacers,S. O'Neal,38.0,16.7,2.3, Shaquille O'Neal 
+23,24,1999,San Antonio Spurs,New York Knicks,T. Duncan,27.4,14.0,2.4, Tim Duncan 
+24,25,1998,Chicago Bulls,Utah Jazz,M. Jordan,33.5,4.0,2.3, Michael Jordan 
+25,26,1997,Chicago Bulls,Utah Jazz,M. Jordan,32.3,7.0,6.0, Michael Jordan 
+26,27,1996,Chicago Bulls,Seattle SuperSonics,M. Jordan,27.3,5.3,4.2, Michael Jordan 
+27,28,1995,Houston Rockets,Orlando Magic,H. Olajuwon,32.8,11.5,5.5, Hakeem Olajuwon 
+28,29,1994,Houston Rockets,New York Knicks,H. Olajuwon,26.9,9.1,3.6, Hakeem Olajuwon 
+29,30,1993,Chicago Bulls,Phoenix Suns,M. Jordan,41.0,8.5,6.3, Michael Jordan 
+30,31,1992,Chicago Bulls,Portland Trail Blazers,M. Jordan,35.8,4.8,6.5, Michael Jordan 
+31,32,1991,Chicago Bulls,Los Angeles Lakers,M. Jordan,31.2,6.6,11.4, Michael Jordan 
+32,33,1990,Detroit Pistons,Portland Trail Blazers,I. Thomas,27.6,5.2,7.0, Isiah Thomas 
+33,34,1989,Detroit Pistons,Los Angeles Lakers,J. Dumars,27.3,1.8,6.0, Joe Dumars 
+34,35,1988,Los Angeles Lakers,Detroit Pistons,J. Worthy,22.0,7.4,4.4, James Worthy 
+35,36,1987,Los Angeles Lakers,Boston Celtics,M. Johnson,26.2,8.0,13.0, Magic Johnson 
+36,37,1986,Boston Celtics,Houston Rockets,L. Bird,24.0,9.7,9.5, Larry Bird 
+37,38,1985,Los Angeles Lakers,Boston Celtics,K. Abdul-Jabbar,25.7,9.0,5.2, Kareem Abdul-Jabbar 
+38,39,1984,Boston Celtics,Los Angeles Lakers,L. Bird,27.4,14.0,3.6, Larry Bird 
+39,40,1983,Philadelphia 76ers,Los Angeles Lakers,M. Malone,25.8,18.0,2.0, Moses Malone 
+40,41,1982,Los Angeles Lakers,Philadelphia 76ers,M. Johnson,16.2,10.8,8.0, Magic Johnson 
+41,42,1981,Boston Celtics,Houston Rockets,C. Maxwell,17.7,9.5,2.8, Cedric Maxwell 
+42,43,1980,Los Angeles Lakers,Philadelphia 76ers,M. Johnson,21.5,11.2,8.7, Magic Johnson 
+43,44,1979,Seattle SuperSonics,Washington Bullets,D. Johnson,22.6,6.0,6.0, Dennis Johnson 
+44,45,1978,Washington Bullets,Seattle SuperSonics,W. Unseld,9.0,11.7,3.9, Wes Unseld 
+45,46,1977,Portland Trail Blazers,Philadelphia 76ers,B. Walton,18.5,19.0,5.2, Bill Walton 
+46,47,1976,Boston Celtics,Phoenix Suns,J. White,21.7,4.3,5.8, Jo Jo White 
+47,49,1975,Golden State Warriors,Washington Bullets,R. Barry,29.5,4.0,5.0, Rick Barry 
+48,51,1974,Boston Celtics,Milwaukee Bucks,J. Havlicek,26.4,7.7,4.7, John Havlicek 
+49,53,1973,New York Knicks,Los Angeles Lakers,W. Reed,16.4,9.2,2.6, Willis Reed 
+50,55,1972,Los Angeles Lakers,New York Knicks,W. Chamberlain,19.4,23.2,2.6, Wilt Chamberlain 
+51,57,1971,Milwaukee Bucks,Baltimore Bullets,K. Abdul-Jabbar,27.0,18.5,2.8, Kareem Abdul-Jabbar 
+52,59,1970,New York Knicks,Los Angeles Lakers,W. Reed,23.0,10.5,2.8, Willis Reed 
+53,61,1969,Boston Celtics,Los Angeles Lakers,J. West,37.9,4.7,7.4, Jerry West 
