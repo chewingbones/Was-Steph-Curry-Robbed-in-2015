@@ -6,4 +6,4 @@ I looked at the biggest point differentials between Finals MVP and Leading Score
 I built a model to predict who wins Finals MVP. The initial model used 5 features. Attempts with more features were made but the 5 basic features worked best as they are "traditional" stats which is what voters of the Finals MVP (and casual fans) typically pay attention to (remember, who WOULD win).
 
 UPDATE
-One huge feature that was left out of the original model was "Winning Team"; only one player from a losing team has ever won Finals MVP. The addition of "Winning Team" as a binary boosted the accuracy of the model by close to a percent and the precision went up 10 percentage points.
+A clean copy of the project has been added alongside of the original copy. The cleaned up copy shows the best version of the model I built.
